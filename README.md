@@ -11,8 +11,8 @@ In this lab, you'll be coding a `Song` and `Artist` class. A song should belong 
 * Artists should have a name. 
 * Songs should have a title and belong to an artist. A song should be able to tell you the name of its artist:
 
-```ruby
-song.artist.name
+```
+
   # => "Beyonce"
 ```
 
